@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schauhan16
+- 👋 Hi, I’m Shailendra Chauhan
 - 👀 I’m interested in machine learning, new languages, and algorithms
 - 🌱 I’m currently learning data science and streaming pipelines.
 - 💞️ I’m looking to collaborate on all kind of projects. Looking to gain more experience in complex data structure projects.
